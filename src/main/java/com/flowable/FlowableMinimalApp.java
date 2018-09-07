@@ -1,4 +1,4 @@
-package org.flowable;
+package com.flowable;
 
 import org.flowable.engine.ProcessEngine;
 import org.flowable.engine.ProcessEngineConfiguration;

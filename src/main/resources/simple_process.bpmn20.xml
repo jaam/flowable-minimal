@@ -7,7 +7,7 @@
     <process id="simple-process" name="Simple Process" isExecutable="true">
         <startEvent id="startEvent1"></startEvent>
         <serviceTask id="sid-26101B43-46EA-4465-926A-718583A511CE" name="Simple ServiceTask"
-                     flowable:class="org.flowable.SimpleServiceTask"></serviceTask>
+                     flowable:class="com.flowable.SimpleServiceTask"></serviceTask>
         <sequenceFlow id="sid-1522A43C-7971-47AC-831E-56668B545B43" sourceRef="startEvent1"
                       targetRef="sid-26101B43-46EA-4465-926A-718583A511CE"></sequenceFlow>
         <endEvent id="sid-68F2183E-AD94-4114-945A-528E92A75A7B"></endEvent>
