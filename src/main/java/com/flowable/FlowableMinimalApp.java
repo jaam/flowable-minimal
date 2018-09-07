@@ -9,9 +9,6 @@ import org.flowable.engine.repository.Deployment;
 import org.flowable.engine.repository.ProcessDefinition;
 import org.flowable.job.service.impl.asyncexecutor.DefaultAsyncJobExecutor;
 
-/**
- * @author Jose Antonio Alvarez
- */
 public class FlowableMinimalApp {
 
     public static void main(String[] args) {
